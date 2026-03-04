@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated outputs (run main.py to reproduce)
+output/
+
+# Data files (large; not tracked in git)
+data/
+
+# Homework / course materials (not part of the public project)
+requirement/
+6767Final_Project_Report.pdf
+
+# Dev notes
+todo.md
+
+# macOS
+.DS_Store
+
+# Editor / tool config
+.claude/
